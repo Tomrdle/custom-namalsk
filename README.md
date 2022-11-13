@@ -14,4 +14,6 @@ This package contains config files and map edit so you can properly add these cu
 - mapgrouppos.xml - adds proper positioning of new buildings
 - mapgroupproto.xml - adds new buildings aren't part of namalsk default set
 
+Watch video of Custom Namalsk here - https://www.youtube.com/watch?v=ZRZ6LejPn00
+
 Thanks for downloading and have fun!  Join discord for more!  https://discord.gg/2ryrSmVb
