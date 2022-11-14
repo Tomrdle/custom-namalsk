@@ -1,8 +1,10 @@
 # custom-namalsk Dayz
 
-!IMPORTANT! Be sure to back up original files before adding these to your server!  
+!IMPORTANT! Be sure to back up original files before adding these to your server! 
 
-These files are just a custom area in the southwest part of namalsk that is normally desolate that I decided to added some buildings and a heli crash
+Edits done using the Namalsk map for Dayz Standalone PC.
+
+These files are just a custom area in the southwest part of namalsk that is normally desolate that I decided to added some buildings and a heli crash.
 
 This package contains config files and map edit so you can properly add these custom buildings with loot and zombies to your server if you wish.
 
