@@ -1,4 +1,4 @@
-# custom-namalsk
+# custom-namalsk Dayz
 
 !IMPORTANT! Be sure to back up original files before adding these to your server!  
 
