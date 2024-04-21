@@ -13,8 +13,8 @@ This package contains config files and map edit so you can properly add these cu
 - env/zombie_territories.xml - adds zombie coordinates to specific custom area of map
 - areaflags.map - tells server where you want zombies spawned
 - init.c - adds the buildings and their coordinates using init.c
-- mapgrouppos.xml - adds proper positioning of new buildings
-- mapgroupproto.xml - adds new buildings aren't part of namalsk default set
+- mapgrouppos.xml - adds proper positioning of new buildings and loot
+- mapgroupproto.xml - adds new buildings and loot that aren't part of namalsk default set
 
 Watch video of Custom Namalsk here - https://www.youtube.com/watch?v=ZRZ6LejPn00
 
